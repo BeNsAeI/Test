@@ -4,3 +4,4 @@ git add adds all the changes and new files
 git commit -m "Message here" locks it to repo
 git push pushes the locked repo to the cloud
 git pull reads from cloud and syncs it with cloud
+git add -a adds all the changed files
