@@ -1,0 +1,3 @@
+git clone <URL> clones from the repository
+git status gives you the differences between repo and hard content
+git add adds all the changes and new files
